@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Victor Grădinariu
+- 🌱 I’m currently studying computer science at Babes Bolyai University in Romania
