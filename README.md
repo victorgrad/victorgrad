@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Victor Grădinariu
-- 🌱 I’m currently studying computer science at Babes Bolyai University in Romania
+- 🌱 I graduated computer science at Babes Bolyai University in Romania
+-  I'm currently working as a Java software developer and I also dabble in some DevOps
